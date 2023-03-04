@@ -171,16 +171,3 @@
       "url": "heroku-community/apt"
       }]
   }
-},
-
-    {
-
-      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
-
-    },
-
-    {
-
-      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
-
-    }
